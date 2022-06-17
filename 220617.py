@@ -32,7 +32,7 @@ dt = 1000
 
 #대충 밑에있는건 물리
 while True:
-    rate(1000)
+    rate(900)
 
     r = moon.pos - earth.pos
     r2 = mercury.pos - earth.pos
